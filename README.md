@@ -21,7 +21,7 @@ Aquí algunas de las tecnologías y herramientas que manejo:
 
 ¡Me encantaría conectar contigo! Puedes encontrarme en:
 
-- 🐦 [Twitter]([link-a-tu-cuenta-de-Twitter](https://twitter.com/zomvr2))
+- 🐦 [Twitter](https://twitter.com/zomvr2)
 - 🌐 [Mi web](https://zomvr.me)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos 😊
