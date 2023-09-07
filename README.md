@@ -1,16 +1,27 @@
-### Hi there 👋
+# Bienvenido a mi perfil de GitHub! 👋
 
-<!--
-**zomvr2/zomvr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Benjamín, un desarrollador frontend apasionado por aprender cosas nuevas y mejorar mis habilidades. Aquí encontrarás algunos de mis proyectos y experimentos relacionados con el desarrollo web y móvil. 😄
 
-Here are some ideas to get you started:
+## Sobre mí 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Me encanta programar en SvelteKit, Tailwind CSS, React Native y trabajar con bases de datos en Firebase y Supabase.
+- 🌱 Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades en el desarrollo web y móvil.
+
+## Mis Habilidades 💡
+
+Aquí algunas de las tecnologías y herramientas que manejo:
+
+- 💻 HTML, CSS, JavaScript
+- 🎨 SvelteKit, Tailwind CSS
+- ⚛️ React Native
+- 📦 Firebase, Supabase (Bases de datos)
+- 🚀 Desarrollo Frontend y Móvil
+
+## Contáctame 📫
+
+¡Me encantaría conectar contigo! Puedes encontrarme en:
+
+- 🐦 [Twitter]([link-a-tu-cuenta-de-Twitter](https://twitter.com/zomvr2))
+- 🌐 [Mi web](https://zomvr.me)
+
+¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos 😊
