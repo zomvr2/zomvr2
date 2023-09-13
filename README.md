@@ -11,8 +11,8 @@
 
 Aquí algunas de las tecnologías y herramientas que manejo:
 
-- 💻 HTML, CSS, JavaScript
-- 🎨 SvelteKit, Tailwind CSS
+- 💻 HTML, JavaScript, SvelteKit, Astro
+- 🎨 CSS, Tailwind CSS
 - ⚛️ React Native
 - 📦 Firebase, Supabase (Bases de datos)
 - 🚀 Desarrollo Frontend y Móvil
