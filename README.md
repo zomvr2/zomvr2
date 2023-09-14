@@ -4,7 +4,7 @@
 
 ## Sobre mí 🚀
 
-- 💻 Me encanta programar en SvelteKit, Tailwind CSS, React Native y trabajar con bases de datos en Firebase y Supabase.
+- 💻 Me encanta programar en SvelteKit, Astro, Tailwind CSS, React Native y trabajar con bases de datos en Firebase y Supabase.
 - 🌱 Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades en el desarrollo web y móvil.
 
 ## Mis Habilidades 💡
